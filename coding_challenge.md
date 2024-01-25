@@ -23,8 +23,12 @@ features that a user might find useful!
 
 Create a web app where you track your plants and their watering schedules. It should store all the plants
 and then identify the health of the plans over time based on the regularity of watering. Include a search
-to find a specific plant quickly. Additionally, you can use tools like OpenAI to assist with classification
-or gathering additional context on a plant, or alternatively have it be provided by the user.
+to find a specific plant quickly. Additionally, you can use tools like Perenual, or OpenAI to assist with
+classification or gathering additional context on a plant, or alternatively have it be provided by the user.
+
+Example API Providers:
+* [Perenual](https://perenual.com/docs/api)
+* [OpenAI](https://platform.openai.com/docs/introduction)
 
 ### Email Service
 
