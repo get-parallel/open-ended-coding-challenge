@@ -4,27 +4,27 @@ Coding Challenge Guidelines
 If you don't have code to share, you can work on our coding challenge described
 below.
 
-Please organize, design, test, document and deploy your code as if it were
+Please organize, design, test, document, and deploy your code as if it were
 going into production, then send us a link to the hosted repository (e.g.
 Github, Gitlab...).
 
 Functional spec
 ---------------
 
-Prototype **one** between the following projects:
+Prototype **one** of the following projects:
 
-1. Star Wars
+1. Plant Health
 2. Email Service
 
-The UX/UI is totally up to you. If you like, get creative and add additional
-features a user might find useful!
+The UX/UI is totally up to you. If you like, get creative and incorperate additional
+features that a user might find useful!
 
-### Star Wars
+### Plant Health
 
-Create an IMDB clone that is centered around Star Wars movies. The user should be able to filter the view using autocompletion
-search.
-
-The data is available on [SWAPI](https://swapi.dev/).
+Create a web app where you track your plants and their watering schedules. It should store all the plants
+and then identify the health of the plans over time based on the regularity of watering. Include a search
+to find a specific plant quickly. Additionally, you can use tools like OpenAI to assist with classification
+or gathering additional context on a plant, or alternatively have it be provided by the user.
 
 ### Email Service
 

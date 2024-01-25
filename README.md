@@ -6,7 +6,7 @@ The [coding challenge](coding_challenge.md) is optional if you already have some
 Existing code
 -------------
 
-If you have existing code, please follow the following guidelines:
+If you have existing code, please use the following guidelines:
 
 * Include a link to the hosted repository (e.g. Github, Gitlab...). We cannot review archives or single files.
 * The repo should include a README that follows the [principles described below](#readme) In particular, please make sure to include high-level explanation about what the code is doing.
@@ -40,7 +40,7 @@ The aspects of your code we will assess include:
 * **Architecture**: how clean is the separation between the front-end and the back-end?
 * **Clarity**: does the README clearly and concisely explains the problem and solution? Are technical tradeoffs explained?
 * **Correctness**: does the application do what was asked? If there is anything missing, does the README explain why it is missing?
-* **Code quality**: is the code simple, easy to understand, and maintainable?  Are there any code smells or other red flags? Does object-oriented code follows principles such as the single responsibility principle? Is the coding style consistent with the language's guidelines? Is it consistent throughout the codebase?
+* **Code quality**: is the code simple, easy to understand, and maintainable?  Are there any code smells or other red flags? Does code follow principles such as the single responsibility principle? Is the coding style consistent with the language's guidelines? Is there style consistency throughout the codebase?
 * **Security**: are there any obvious vulnerability?
 * **Testing**: how thorough are the automated tests? Will they be difficult to change if the requirements of the application were to change? Are there some unit and some integration tests?
     * We're not looking for full coverage but just trying to get a feel for your testing skills.
